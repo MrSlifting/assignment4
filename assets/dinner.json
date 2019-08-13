@@ -1,0 +1,19 @@
+{
+    "Food":[
+       {
+          "name":"Chicken noodle soup",
+          "price":"$6.99",
+          "calories":"1200"
+       },
+       {
+          "name":"PadThai",
+          "price":"$7.99",
+          "calories":"1000"
+       },
+       {
+          "name":"Sushi",
+          "price":"$5.99",
+          "calories":"1100"
+       }
+    ]
+ }

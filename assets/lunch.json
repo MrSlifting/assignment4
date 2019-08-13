@@ -1,0 +1,19 @@
+{
+    "Food":[
+       {
+          "name":"poutine",
+          "price":"$6.99",
+          "calories":"1350"
+       },
+       {
+          "name":"pizza",
+          "price":"$4.99",
+          "calories":"1100"
+       },
+       {
+          "name":"chicken wings",
+          "price":"$8.99",
+          "calories":"1300"
+       }
+    ]
+ }

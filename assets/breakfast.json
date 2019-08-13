@@ -1,0 +1,19 @@
+{
+    "Food":[
+       {
+          "name":"Chicken sandwich",
+          "price":"$6.99",
+          "calories":"1200"
+       },
+       {
+          "name":"Beef sandwich",
+          "price":"$7.99",
+          "calories":"1400"
+       },
+       {
+          "name":"Fish sandwich",
+          "price":"$5.99",
+          "calories":"1100"
+       }
+    ]
+ }
